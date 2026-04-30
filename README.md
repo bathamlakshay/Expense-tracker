@@ -4,19 +4,22 @@ A production-level personal finance tracking app built with React.js, Zustand, a
 
 ## 🚀 Live Demo
 
-👉 [<img width="1899" height="911" alt="image" src="https://github.com/user-attachments/assets/f6632e28-9dec-41e9-a545-39c099988253" />](https://trackyourxpense.netlify.app/budget)
+👉 https://useexpensestore.netlify.app/
 
 
 ## 📸 Screenshots
 
 ### Dashboard
-<img width="1896" height="901" alt="image" src="https://github.com/user-attachments/assets/fbb3608d-4416-4cc4-80ea-14de4d760b26" />
+<img width="1887" height="903" alt="image" src="https://github.com/user-attachments/assets/97529ad1-03dd-4487-9ec3-82c6460d87ea" />
+
 
 ### Budget Limits
-<img width="1893" height="897" alt="image" src="https://github.com/user-attachments/assets/90d709d6-d651-42a5-b58a-c6b62d95f90b" />
+<img width="1894" height="902" alt="image" src="https://github.com/user-attachments/assets/c2d7f5c0-9237-4c1a-81b9-a3a5b37674e4" />
+
 
 ### Transactions
-![Uploading image.png…]()
+<img width="1910" height="895" alt="image" src="https://github.com/user-attachments/assets/fa0fb424-5ad4-4b48-b57e-50f4db0cf8b5" />
+
 
 
 ## ✨ Features
